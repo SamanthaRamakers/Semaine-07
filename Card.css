@@ -1,0 +1,11 @@
+.card{
+  color: yellow;
+  border-radius: 5px;
+  border: 2px solid gold;
+  height: 350px;
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: yellow;
+  width: 600px;
+  box-shadow: 0 4px 8px 0 red;
+}
